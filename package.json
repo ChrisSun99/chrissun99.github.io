@@ -1,28 +1,26 @@
 {
-  "name": "brittanychiang.com",
-  "version": "0.0.0",
-  "description": "Design-minded front-end software engineer focused on building beautiful interfaces and experiences",
+  "name": "mywebsite",
+  "version": "1.0.0",
+  "description": "I'm a computer science student at UC Berkeley. I'm currently looking for a internship opportunity in summer 2020.",
+  "main": "chrissun99",
+  "dependencies": {},
+  "devDependencies": {
+    "gulp": "^4.0.2"
+  },
+  "scripts": {
+    "test": "run"
+  },
   "repository": {
     "type": "git",
-    "url": "https://github.com/chrissun99/chrissun99.github.io"
+    "url": "git+https://github.com/ChrisSun99/website.git"
   },
-  "homepage": "https://github.com/chrissun99/chrissun99.github.io",
-  "main": "gulpfile.js",
-  "scripts": {
-    "start": "gulp serve",
-    "build": "gulp build"
-  },
+  "keywords": [
+    "ChrisSun99"
+  ],
   "author": "Mengti Sun",
   "license": "ISC",
-  "devDependencies": {
-    "@nuscout/eslint-config": "^0.2.1",
-    "browser-sync": "^2.26.7",
-    "gulp": "3.9.1",
-    "gulp-autoprefixer": "^6.1.0",
-    "gulp-clean-css": "3.10.0",
-    "gulp-eslint": "6.0.0",
-    "gulp-imagemin": "6.0.0",
-    "gulp-sass": "^4.0.2",
-    "gulp-uglify": "3.0.2"
-  }
+  "bugs": {
+    "url": "https://github.com/ChrisSun99/website/issues"
+  },
+  "homepage": "https://github.com/ChrisSun99/website#readme"
 }
