@@ -42,32 +42,25 @@
     - thing: Node.js
 
 - name: Maps
-  url: 
+  url: https://github.com/ChrisSun99/CS61A_Maps
   code: https://github.com/ChrisSun99/CS61A_Maps
   description: A web-based recommandation system using Yelp's data.
   used:
+    - thing: HTML/CSS
+    - thing: Python
     - thing: JavaScript
-    - thing: React
-    - thing: React Router
-    - thing: Axios
-    - thing: YouTube API
 
 - name: SnapshotClone
-  url: 
+  url: https://github.com/ChrisSun99/SnapshotClone
   code: https://github.com/ChrisSun99/SnapshotClone
   description: A Snapchat Clone app in which users should be able to take a picture, post to a feed, and then be able to view all the posts in a feed in the "Snap" style of clicking on an image, viewing it, and not being able to see it again.
   img: weather
   used:
-    - thing: JavaScript
-    - thing: CSS
-    - thing: Node.js
-    - thing: Express
-    - thing: Heroku
-    - thing: OpenWeatherMap API
-    - thing: Google Maps API
+    - thing: Swift
+
 
 - name: SchemeInterpreter 
-  url: 
+  url: https://github.com/ChrisSun99/SchemeInterpreter
   code: https://github.com/ChrisSun99/SchemeInterpreter
   description: An online version of my 2016 resume I made for fun. I was interested in learning React.js, so I found this <a class="underline-link" href="https://medium.com/learning-new-stuff/building-your-first-react-js-app-d53b0c98dc#.1439cdewq">simple tutorial</a> and it kind of spun into this weekend project. I probably didn't need to use React at all, but hey, at least I learned a few things!
   used:

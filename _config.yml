@@ -11,16 +11,10 @@ resume: https://chrissun99.github.io/resume.pdf
 social:
   - title: email
     url: mailto:mengtisun@berkeley.edu
-  - title: twitter
-    url: https://twitter.com/bchiang7
-  - title: instagram
-    url: https://instagram.com/bchiang7
-  - title: codepen
-    url: http://codepen.io/bchiang7
   - title: github
-    url: https://github.com/bchiang7
+    url: https://github.com/ChrisSun99
   - title: linkedin
-    url: https://www.linkedin.com/in/bchiang7
+    url: https://www.linkedin.com/in/mengti-sun-4661b2140/
 
 # Build settings
 markdown: kramdown
