@@ -1,7 +1,50 @@
-- name: 
-  url: https://github.com/bchiang7/Surf-Videos
-  code: https://github.com/bchiang7/Surf-Videos
-  description: Small React project created during an interview process to browse and search surf videos via the YouTube API.
+- name: Tripy
+  url: https://github.com/ChrisSun99/Tripy
+  code: https://github.com/ChrisSun99/Tripy
+  description: A cloud-based itinerary iOS app that enables users to plan their trips 
+  used:
+    - thing: Swift
+    - thing: Firebase
+    - thing: XCode
+
+- name: Bear Maps
+  url: 
+  code: 
+  description: A web app that finds the optimal route between two points in Berkeley, using a QuadTree to store images, a rastering algorithm to concatenate images, and A* search to find the shortest path
+  used:
+    - thing: Java
+    - thing: HTML
+    - thing: SCSS
+    - thing: JavaScript
+
+- name: PollutionForecastingApp
+  url: https://github.com/ChrisSun99/PollutionForecastingApp
+  code: https://github.com/ChrisSun99/PollutionForecastingApp
+  description: Analyzed weather data of Beijing and Taiyuan collected by sensors on street lamps using time series forecasting. Implemented a LSTM-net that forecasted pollution forecast of the upcoming ten days with 0.6 of validation loss
+  used:
+    - thing: Python 
+    - thing: Flask
+    - thing: PyTorch 
+    - thing: numPy
+    - thing: sciPy
+    - thing: Pandas 
+    - thing: statsmodel
+    - thing: lake
+
+- name: ML Kit 
+  url: 
+  code: 
+  description: A maching learning kit composed of functionalities including distinguishing handwriting and language, categorizing animals, etc. 
+  img: weather
+  used:
+    - thing: Python
+    - thing: CSS
+    - thing: Node.js
+
+- name: Maps
+  url: 
+  code: https://github.com/ChrisSun99/CS61A_Maps
+  description: A web-based recommandation system using Yelp's data.
   used:
     - thing: JavaScript
     - thing: React
@@ -9,70 +52,10 @@
     - thing: Axios
     - thing: YouTube API
 
-- name: Maze Generator/Solver
-  url: https://bchiang7.github.io/halcyon-site/
-  code: https://github.com/bchiang7/halcyon-site
-  description: A minimal, dark theme for Sublime Text, Atom, VS Code, and more published to <a class="underline-link" href="https://packagecontrol.io/packages/Halcyon%20Theme">Package Control</a>, <a class="underline-link" href="https://atom.io/themes/halcyon-syntax">Atom Package Manager</a>, <a class="underline-link" href="https://marketplace.visualstudio.com/items?itemName=brittanychiang.halcyon-vscode">Visual Studio Marketplace</a>, and <a class="underline-link" href="https://www.npmjs.com/package/hyper-halcyon-theme">NPM</a>.
-  used:
-    - thing: Gatsby
-    - thing: Sublime Text
-    - thing: Atom
-    - thing: VS Code
-    - thing: iTerm2
-    - thing: Hyper
-
-- name: Tripy
-  url: https://github.com/bchiang7/CS3200-Project
-  code: https://github.com/bchiang7/CS3200-Project
-  description: Final project for my Database Design course at Northeastern. A simple web application that allows users to filter through a database containing Lonely Planet's <a class="underline-link" href="https://www.amazon.com/Lonely-Planets-Ultimate-Travel-Places/dp/1760342777" target="_blank">Top 500 Travel Destinations</a>. Users are able to add themselves as visitors as well as leave reviews of the destinations.
-  used:
-    - thing: Python
-    - thing: MySQL
-    - thing: Flask
-    - thing: HTML
-    - thing: CSS
-    - thing: JavaScript
-
-- name: Bear Maps
-  url: https://bchiang7.github.io/Redesign-myNEU/
-  code: https://github.com/bchiang7/Redesign-myNEU
-  description: myNEU student portal web prototype for my information science senior project. I conducted a study that aimed to answer the question of how myNEU can be improved to provide students at Northeastern with a better user experience. Informed by usability metrics gathered from user tests, I redesigned and developed a web prototype of myNEU.
-  used:
-    - thing: Jekyll
-    - thing: HTML
-    - thing: SCSS
-    - thing: JavaScript
-
-- name: PollutionForecastingApp
-  url: https://github.com/crowddj/crowddj-react
-  code: https://github.com/crowddj/crowddj-react
-  description:
-    A web app that allows people who are at a party or social gathering with a DJ to request songs via their smartphones. The web app allows people to see the currently playing song, request songs, upvote songs, and rate songs so the DJ can see how the crowd is feeling and act accordingly. In other words, Crowd DJ is essentially a crowdsourced music queue. <br>
-    <a class="small" href="http://projects.hackbeanpot.com/2017-projects.html">🏆 Won Best UI/UX Design at Hackbeanpot 2017 🏆</a>
-  used:
-    - thing: React
-    - thing: Sass
-    - thing: Firebase
-    - thing: Spotify API
-
-- name: ML Kit 
-  url: http://quiet-dusk-89245.herokuapp.com/
-  code: https://github.com/bchiang7/DemoWebApp
-  description: A simple weather app I made at HubSpot's Fall 2016 Web App Workshop with Node.js, Express, and Heroku. I used the OpenWeatherMap API to get weather and forecast data, and then used the current city's coordinates to create a map background that reflected the current city using the Google Maps API.
-  img: weather
-  used:
-    - thing: JavaScript
-    - thing: CSS
-    - thing: Node.js
-    - thing: Express
-    - thing: Heroku
-    - thing: OpenWeatherMap API
-    - thing: Google Maps API
-
-- name: Snapshot Immitator
-  url: http://quiet-dusk-89245.herokuapp.com/
-  code: https://github.com/bchiang7/DemoWebApp
-  description: A simple weather app I made at HubSpot's Fall 2016 Web App Workshop with Node.js, Express, and Heroku. I used the OpenWeatherMap API to get weather and forecast data, and then used the current city's coordinates to create a map background that reflected the current city using the Google Maps API.
+- name: SnapshotClone
+  url: 
+  code: https://github.com/ChrisSun99/SnapshotClone
+  description: A Snapchat Clone app in which users should be able to take a picture, post to a feed, and then be able to view all the posts in a feed in the "Snap" style of clicking on an image, viewing it, and not being able to see it again.
   img: weather
   used:
     - thing: JavaScript
@@ -84,24 +67,19 @@
     - thing: Google Maps API
 
 - name: SchemeInterpreter 
-  url: https://bchiang7.github.io/react-profile/
-  code: https://github.com/bchiang7/react-profile/
+  url: 
+  code: https://github.com/ChrisSun99/SchemeInterpreter
   description: An online version of my 2016 resume I made for fun. I was interested in learning React.js, so I found this <a class="underline-link" href="https://medium.com/learning-new-stuff/building-your-first-react-js-app-d53b0c98dc#.1439cdewq">simple tutorial</a> and it kind of spun into this weekend project. I probably didn't need to use React at all, but hey, at least I learned a few things!
   used:
-    - thing: JavaScript
-    - thing: React
-    - thing: CSS
+    - thing: Python
 
 - name: Ants vs. Bees
-  url: http://webdevspring2016-chiangbrittany.rhcloud.com/project/client/#/login
-  code: https://github.com/bchiang7/WebDevSpring2016/tree/master/public/project
+  url: 
+  code: https://github.com/ChrisSun99/Ants-vs.-Bees
   description: A web application built on the MEAN (MongoDB, Express, Angular, Node) stack for my web development course at Northeastern. I created this web app with the intention of providing Northeastern Students a better experience browsing the courses offered at Northeastern.
   used:
     - thing: HTML
     - thing: CSS
-    - thing: JavaScript
-    - thing: Node.js
-    - thing: Angular
-    - thing: Express
-    - thing: MongoDB
+    - thing: Python
+
 
