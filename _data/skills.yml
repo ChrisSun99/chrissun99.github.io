@@ -1,33 +1,33 @@
 languages:
-  - item: JavaScript (ES6)
+  - item: JavaScript
   - item: Java
   - item: C/C++
   - item: HTML/CSS
   - item: Python/Django
   - item: SQL
   - item: R
+  - item: Golang
+  - item: Swift
 
 frameworks:
-  - item: Ember & Glimmer
-  - item: React
-  - item: Jekyll
-  - item: Node
-  - item: D3
-  - item: Wordpress
-  - item: Timber
+  - item: Flask
+  - item: numPy/sciPy/Pandas
+  - item: REST
+  - item: PyTorch
+  - item: Tensorflow
 
 tools:
-  - item: Bash
+  - item: MySQL
   - item: Git & Github
-  - item: Gulp & Grunt
-  - item: Chrome DevTools
-  - item: Postman
-  - item: MongoDB
+  - item: Amazon AWS 
+  - item: Docker 
+  - item: Oracle
+  - item: ROS
+  - item: Jupyter 
 
 design:
-  - item: Sketch
-  - item: InDesign
-  - item: InVision
-  - item: Prototyping
-  - item: Wireframing
-  - item: User Testing
+  - item: Adobe Illustrator
+  - item: Adobe Photoshop
+  - item: Lightroom
+
+
