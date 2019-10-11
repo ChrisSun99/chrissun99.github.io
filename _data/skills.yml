@@ -1,9 +1,9 @@
 languages:
   - item: JavaScript (ES6)
-  - item: TypeScript
-  - item: HTML
-  - item: CSS/Sass
-  - item: Python
+  - item: Java
+  - item: C/C++
+  - item: HTML/CSS
+  - item: Python/Django
   - item: SQL
   - item: R
 
