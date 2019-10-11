@@ -43,7 +43,7 @@
     - thing: SCSS
     - thing: JavaScript
 
-- name: Crowd DJ
+- name: PollutionForecastingApp
   url: https://github.com/crowddj/crowddj-react
   code: https://github.com/crowddj/crowddj-react
   description:
