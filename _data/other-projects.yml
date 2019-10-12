@@ -1,11 +1,11 @@
-- name: Tripy
-  url: https://github.com/ChrisSun99/Tripy
-  code: https://github.com/ChrisSun99/Tripy
-  description: A cloud-based itinerary iOS app that enables users to plan their trips 
+- name: Maze Generator/Solver
+  url: https://github.com/ChrisSun99/MazeGenerator
+  code: https://github.com/ChrisSun99/MazeGenerator
+  description: A user-interface with multiple maze generation and solving algorithms including bi-directional DFS, Wilson’s, Prim’s, Kruskal’s algorithms; with buttons and sliders on the interface, users are able to control the kill & feed rate, and speed of generation 
   used:
-    - thing: Swift
-    - thing: Firebase
-    - thing: XCode
+    - thing: Java
+    - thing: Javax
+    - thing: Intellij
 
 - name: Bear Maps
   url: 
