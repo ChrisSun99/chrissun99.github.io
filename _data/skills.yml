@@ -3,7 +3,7 @@ languages:
   - item: Java
   - item: C/C++
   - item: HTML/CSS
-  - item: Python/Django
+  - item: Python
   - item: SQL
   - item: R
   - item: Golang
@@ -15,6 +15,7 @@ frameworks:
   - item: REST
   - item: PyTorch
   - item: Tensorflow
+  - item: Django
 
 tools:
   - item: MySQL
